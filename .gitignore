@@ -11,3 +11,7 @@ rel
 .concrete/DEV_MODE
 .rebar
 *.lock
+
+.ls_elixir/
+.vscode/
+.history
